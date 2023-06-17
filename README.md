@@ -1,2 +1,2 @@
-# Electron
-test Electron
+Expérience de code avec Electron pour apprendre comment transférer MFSS 
+dans un projet Electron ...
